@@ -1,3 +1,3 @@
 print("prajwal")
 
-print("go corona")
+print("go cockroch")
